@@ -1,0 +1,134 @@
+[
+  {
+    "timestamp": "2025-09-22T22:23:46.377116",
+    "parameters": {
+      "profile": "exact",
+      "target_capacity": 750.0,
+      "target_count": 10.0,
+      "people_count": null
+    },
+    "recipe_name": "Nowy przepis",
+    "ingredients_count": 3,
+    "result_preview": "======================================================================\nPRZEPIS PO PRZELICZENIU\n=====..."
+  },
+  {
+    "timestamp": "2025-09-25T19:40:50.671745",
+    "parameters": {
+      "profile": "exact",
+      "target_capacity": 250.0,
+      "target_count": 10.0,
+      "people_count": null
+    },
+    "recipe_name": "Nowy przepis",
+    "ingredients_count": 3,
+    "result_preview": "======================================================================\nPRZEPIS PO PRZELICZENIU\n=====..."
+  },
+  {
+    "timestamp": "2025-09-25T19:40:56.304680",
+    "parameters": {
+      "profile": "dinner",
+      "target_capacity": 250,
+      "target_count": 10.0,
+      "people_count": 2
+    },
+    "recipe_name": "Nowy przepis",
+    "ingredients_count": 3,
+    "result_preview": "======================================================================\nPRZEPIS PO PRZELICZENIU\n=====..."
+  },
+  {
+    "timestamp": "2025-09-25T19:41:03.636537",
+    "parameters": {
+      "profile": "dinner",
+      "target_capacity": 500,
+      "target_count": 10.0,
+      "people_count": 4
+    },
+    "recipe_name": "Nowy przepis",
+    "ingredients_count": 3,
+    "result_preview": "======================================================================\nPRZEPIS PO PRZELICZENIU\n=====..."
+  },
+  {
+    "timestamp": "2025-09-27T20:31:28.736673",
+    "parameters": {
+      "profile": "dinner",
+      "target_capacity": 250,
+      "target_count": 10.0,
+      "people_count": 2
+    },
+    "recipe_name": "Nowy przepis",
+    "ingredients_count": 1,
+    "result_preview": "======================================================================\nPRZEPIS PO PRZELICZENIU\n=====..."
+  },
+  {
+    "timestamp": "2025-09-27T20:31:34.506827",
+    "parameters": {
+      "profile": "dinner",
+      "target_capacity": 500,
+      "target_count": 10.0,
+      "people_count": 4
+    },
+    "recipe_name": "Nowy przepis",
+    "ingredients_count": 1,
+    "result_preview": "======================================================================\nPRZEPIS PO PRZELICZENIU\n=====..."
+  },
+  {
+    "timestamp": "2025-09-27T21:13:08.097916",
+    "parameters": {
+      "profile": "exact",
+      "target_capacity": 250.0,
+      "target_count": 10.0,
+      "people_count": null
+    },
+    "recipe_name": "Nowy przepis",
+    "ingredients_count": 3,
+    "result_preview": "======================================================================\nPRZEPIS PO PRZELICZENIU\n=====..."
+  },
+  {
+    "timestamp": "2025-09-27T21:13:13.011643",
+    "parameters": {
+      "profile": "dinner",
+      "target_capacity": 250,
+      "target_count": 10.0,
+      "people_count": 2
+    },
+    "recipe_name": "Nowy przepis",
+    "ingredients_count": 3,
+    "result_preview": "======================================================================\nPRZEPIS PO PRZELICZENIU\n=====..."
+  },
+  {
+    "timestamp": "2025-09-27T21:13:16.791343",
+    "parameters": {
+      "profile": "dinner",
+      "target_capacity": 500,
+      "target_count": 10.0,
+      "people_count": 4
+    },
+    "recipe_name": "Nowy przepis",
+    "ingredients_count": 3,
+    "result_preview": "======================================================================\nPRZEPIS PO PRZELICZENIU\n=====..."
+  },
+  {
+    "timestamp": "2025-09-27T21:13:30.382387",
+    "parameters": {
+      "profile": "dinner",
+      "target_capacity": 250,
+      "target_count": 10.0,
+      "people_count": 2
+    },
+    "recipe_name": "Nowy przepis",
+    "ingredients_count": 3,
+    "result_preview": "======================================================================\nPRZEPIS PO PRZELICZENIU\n=====..."
+  },
+  {
+    "timestamp": "2025-09-27T21:58:41.727606",
+    "parameters": {
+      "profile": "exact",
+      "target_capacity": 50.0,
+      "target_count": 11.0,
+      "people_count": null
+    },
+    "recipe_name": "Nowy przepis",
+    "ingredients_count": 3,
+    "result_preview": "======================================================================\nPRZEPIS PO PRZELICZENIU\n=====..."
+  }
+]

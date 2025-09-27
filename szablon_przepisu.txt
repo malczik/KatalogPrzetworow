@@ -1,0 +1,126 @@
+SZABLON PRZEPISU DO IMPORTU
+===========================
+
+INSTRUKCJA UŻYCIA:
+1. Zapisz ten plik pod własną nazwą (np. "moj_przepis.txt")
+2. Edytuj składniki według swojego przepisu
+3. W programie kliknij "Importuj z TXT"
+4. Sprawdź poprawność importu
+5. Użyj kalkulatora słoików aby obliczyć potrzeby
+
+FORMAT PLIKU:
+- Pierwsza linia: NAZWA PRZEPISU
+- Kolejne linie: SKŁADNIKI w formacie "nazwa ilość jednostka"
+- Pusta linia oznacza koniec sekcji
+
+PRZYKŁAD POPRAWNEGO PRZEPISU:
+-----------------------------
+Dżem truskawkowy
+truskawki 1.5 kg
+cukier 0.75 kg
+sok z cytryny 3 łyżki
+żelatyna 2 łyżeczki
+
+PRZYKŁADY RÓŻNYCH PRZEPISÓW:
+----------------------------
+
+PRZEPIS 1: DŻEM TRUSKAWKOWY
+Dżem truskawkowy na małe słoiki
+truskawki 2 kg
+cukier 1.5 kg
+sok z cytryny 4 łyżki
+
+PRZEPIS 2: OGÓRKI KISZONE
+Ogórki kiszone w zalewie
+ogórki 3 kg
+woda 1.5 l
+sól 3 łyżki
+koper 2 baldachy
+chrzan 2 plastry
+czosnek 6 ząbków
+
+PRZEPIS 3: KONFITURA ŚLIWKOWA
+Konfitura ze śliwek węgierki
+śliwki węgierki 2 kg
+cukier 1 kg
+goździki 5 szt
+cynamon 1 laska
+
+PRZEPIS 4: WARZYWA W OCCIE
+Mieszanka warzywna w occie
+kalafior 1 kg
+marchew 0.5 kg
+cebula 0.3 kg
+ocet 0.5 l
+woda 0.5 l
+cukier 2 łyżki
+sól 1 łyżka
+
+PRZEPIS 5: SOS POMIDOROWY
+Sos pomidorowy do spaghetti
+pomidory 5 kg
+cebula 0.5 kg
+czosnek 10 ząbków
+oliwa 100 ml
+bazylia 2 łyżki
+oregano 1 łyżka
+cukier 1 łyżka
+sól 2 łyżeczki
+
+LISTA OBSŁUGIWANYCH JEDNOSTEK:
+------------------------------
+MASA: g, kg, szczypta
+OBJĘTOŚĆ: ml, l, łyżka, łyżeczka, szklanka
+SZTUKI: szt, ząbek, plaster, porcja
+
+FORMY PRZYGOTOWANIA (dla sztuk):
+--------------------------------
+- (całe)    - całe owoce/warzywa
+- (cząstki) - pokrojone na kawałki  
+- (tarte)   - starte na tarce
+- (kostka)  - pokrojone w kostkę
+
+Przykład użycia formy:
+jabłka 6 szt (cząstki)
+marchew 3 szt (tarte)
+
+WAŻNE WSKAZÓWKI:
+----------------
+1. ZAPISUJ DECYMALE Z KROPKĄ: 0.5 kg (NIE 0,5 kg)
+2. UŻYWAJ PROSTYCH NAZW SKŁADNIKÓW: "cukier" zamiast "cukier kryształ"
+3. JEDNOSTKI PISZ MAŁYMI LITERAMI: "kg" zamiast "KG"
+4. DLA SKŁADNIKÓW W SZTUKACH PODAJ FORMĘ PRZYGOTOWANIA
+5. NAZWA PRZEPISU NIE POWINNA ZAWIERAĆ LICZB
+
+PRZYKŁADY POPRAWNYCH SKŁADNIKÓW:
+--------------------------------
+- pomidory 2.5 kg
+- cebula 4 szt (całe)
+- czosnek 8 ząbków
+- oliwa 150 ml
+- cukier 1 szklanka
+- sól 2 łyżeczki
+- marchew 0.5 kg
+- jabłka 10 szt (cząstki)
+
+PRZYKŁADY NIEPOPRAWNYCH SKŁADNIKÓW:
+-----------------------------------
+- pomidory 2,5 kg (użyj kropki zamiast przecinka)
+- Cebula 3 SZT (użyj małych liter)
+- cukier kryształ 200 g (użyj prostej nazwy "cukier")
+- sól (brak ilości i jednostki)
+
+KROKI PO IMPORCIE:
+------------------
+1. Sprawdź czy wszystkie składniki zostały poprawnie rozpoznane
+2. Wprowadź oryginalne parametry słoików (pojemność i liczbę)
+3. Użyj przycisku "Auto-oblicz słoiki" lub "Kalkulator słoików"
+4. Zapisz przepis w programie przyciskiem "Zapisz przepis"
+5. Przejdź do zakładki "Przeliczanie" aby dostosować do swoich potrzeb
+
+ŻYCZENIA:
+---------
+Życzymy łatwego i przyjemnego tworzenia przetworów!
+Pamiętaj o sterylizacji słoików i bezpiecznym pasteryzowaniu.
+
+Smacznego! 🍅🥫🍓

@@ -1,0 +1,20 @@
+KalkulatorSloikow/
+│
+├── main.py
+├── requirements.txt
+├── gui/
+│   ├── __init__.py
+│   ├── main_window.py
+│   ├── recipe_editor.py
+│   └── calculator_tab.py
+├── core/
+│   ├── __init__.py
+│   ├── calculator.py
+│   ├── unit_converter.py
+│   └── recipe.py
+├── import_export/
+│   ├── __init__.py
+│   └── txt_importer.py
+└── utils/
+    ├── __init__.py
+    └── helpers.py

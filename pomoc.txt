@@ -1,0 +1,144 @@
+INSTRUKCJA OBSŁUGI KALKULATORA PRZETWORÓW
+=========================================
+
+WITAJ W KALKULATORZE PRZETWORÓW!
+Program pomaga obliczyć ilość składników i potrzebnych słoików dla Twoich przepisów.
+
+📁 IMPORT PRZEPISU
+------------------
+Program obsługuje import z trzech formatów:
+- TXT (zalecany) - najprostszy format tekstowy
+- DOCX - pliki Microsoft Word
+- PDF - dokumenty PDF
+
+Format pliku TXT powinien wyglądać tak:
+Nazwa Przepisu
+składnik1 ilość jednostka
+składnik2 ilość jednostka
+...
+
+Przykład:
+Dżem truskawkowy
+truskawki 1 kg
+cukier 0.5 kg
+sok z cytryny 2 łyżki
+
+✏️ EDYCJA PRZEPISU
+------------------
+W zakładce "Edycja przepisu" możesz:
+- Ręcznie dodawać składniki przyciskiem "Dodaj składnik"
+- Edytować istniejące składniki
+- Ustawiać pojemność i liczbę słoików dla oryginalnego przepisu
+
+🧮 KALKULATOR SŁOIKÓW
+---------------------
+W sekcji "KALKULATOR SŁOIKÓW" możesz obliczyć:
+1. Wpisz pojemność swoich słoików (np. 50 ml dla dżemów)
+2. Kliknij "Oblicz liczbę słoików"
+3. Program poda dokładną liczbę potrzebnych słoików
+
+Przykład: Jeśli masz przepis na 5 słoików 500 ml, a chcesz użyć słoików 125 ml,
+program przeliczy że potrzebujesz 20 słoików.
+
+📊 PRZELICZANIE PRZEPISU
+------------------------
+W zakładce "Przeliczanie" możesz:
+1. Wybrać profil obliczeń:
+   - DOKŁADNA ILOŚĆ - precyzyjne przeliczenie na nowe słoiki
+   - PORCJA OBIADOWA - przeliczenie na porcje dla 2 lub 4 osób
+
+2. Ustawić docelowe parametry słoików:
+   - Pojemność (ml)
+   - Liczbę słoików
+
+3. Użyć "Auto-dobór słoików" - program sam dobierze optymalne parametry
+
+💾 EKSPORT WYNIKÓW
+------------------
+Wyniki można wyeksportować do:
+- TXT - prosty tekst
+- DOCX - dokument Word
+- PDF - dokument PDF
+
+W eksportowanym pliku znajdziesz:
+- Przeliczone składniki
+- Informacje o słoikach
+- Datę generowania
+
+📏 OBSŁUGIWANE JEDNOSTKI
+------------------------
+MASA:
+- g (gram)
+- kg (kilogram)
+- szczypta
+
+OBJĘTOŚĆ:
+- ml (mililitr)
+- l (litr)
+- łyżka (15 ml)
+- łyżeczka (5 ml)
+- szklanka (250 ml)
+
+SZTUKI:
+- szt (sztuka)
+- ząbek (czosnku)
+- plaster
+- porcja
+
+🔢 FORMY PRZYGOTOWANIA (dla składników w sztukach)
+--------------------------------------------------
+- CAŁE - całe owoce/warzywa
+- CZĄSTKI - pokrojone na kawałki
+- TARTE - starte na tarce
+- KOSTKA - pokrojone w kostkę
+
+Forma wpływa na obliczenia objętości!
+
+💡 PRAKTYCZNE WSKAZÓWKI
+-----------------------
+DŻEMY I KONFITURY:
+- Używaj małych słoików 50-100 ml
+- Dżemy się nie psują szybko, ale małe porcje są praktyczniejsze
+
+WARZYWA W ZALEWIE:
+- Optymalne słoiki 250-500 ml
+- Dobrze dobierz zalewę (około 30% objętości)
+
+OWOCE W SYROPIE:
+- Słoiki 250-750 ml
+- Pamiętaj o cukrze w syropie
+
+MIĘSA I PASZTETY:
+- Większe słoiki 500-1000 ml
+- Pasteryzuj dłużej dla bezpieczeństwa
+
+ZALECENIA:
+- Zawsze przygotuj 1-2 dodatkowe słoiki na zapas
+- Zapasowy słoik przydaje się gdy przepis "nie wychodzi"
+- Oznacz słoiki datą produkcji
+
+🆘 ROZWIĄZYWANIE PROBLEMÓW
+--------------------------
+PROBLEM: Import nie działa
+ROZWIĄZANIE: Sprawdź czy plik ma odpowiedni format. Użyj szablonu.
+
+PROBLEM: Program nie rozpoznaje składników
+ROZWIĄZANIE: Sprawdź pisownię jednostek. Użyj tylko obsługiwanych jednostek.
+
+PROBLEM: Obliczenia wydają się nieprawidłowe
+ROZWIĄZANIE: Sprawdź czy wszystkie składniki mają jednostki. Upewnij się że forma jest ustawiona dla sztuk.
+
+PROBLEM: Eksport PDF ma problemy z polskimi znakami
+ROZWIĄZANIE: Użyj eksportu DOCX lub TXT.
+
+📞 POMOC TECHNICZNA
+-------------------
+Jeśli masz problemy z programem:
+1. Sprawdź czy masz najnowszą wersję
+2. Prześlij plik z przepisem do analizy
+3. Sprawdź czy nie brakuje żadnych plików programu
+
+Program został zaprojektowany z myślą o łatwości użytkowania.
+Życzymy udanych przetworów!
+
+🍅🍓🥒 HAPPY PRESERVING! 🥫🍯🍎
